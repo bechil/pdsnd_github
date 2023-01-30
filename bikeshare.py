@@ -1,4 +1,5 @@
 # Made with ❤ by bechil (NK)
+# This code is an exercise and a part of Udacity course
 import time
 import pandas as pd
 
