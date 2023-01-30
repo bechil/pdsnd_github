@@ -270,7 +270,7 @@ def main():
             break
     
     # Printing thank you
-    print("Thank you!")
+    print("Thank you very much!")
 
 
 if __name__ == "__main__":
