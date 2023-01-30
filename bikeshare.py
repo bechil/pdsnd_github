@@ -1,3 +1,4 @@
+# Made with ❤ by bechil (NK)
 import time
 import pandas as pd
 
